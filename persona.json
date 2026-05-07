@@ -1,0 +1,54 @@
+{
+    "habits": [
+        "yoga",
+        "gym",
+        "gardening",
+        "cooking",
+        "music",
+        "reading",
+        "gaming",
+        "travel",
+        "meditation",
+        "exercise",
+        "coffee",
+        "movies"
+    ],
+    "personal_facts": [
+        "a city",
+        "california and we have a few here",
+        "california now",
+        "the city right now",
+        "a nice area with my son",
+        "a wedding planner and it",
+        "an engineer",
+        "a video editor and i love making short films",
+        "a barista to support my art",
+        "a therapist helping people with ptsd",
+        "business administration",
+        "to be a teacher hey",
+        "chemistry",
+        "computer science",
+        "math and science",
+        "ny to study in a prestigious designing school",
+        "a big city when i was in college",
+        "new mexico from california",
+        "california for college",
+        "a city and don"
+    ],
+    "personality_traits": [
+        "funny",
+        "emotional",
+        "ambitious",
+        "romantic",
+        "kind",
+        "creative",
+        "serious",
+        "friendly",
+        "motivated"
+    ],
+    "communication_style": {
+        "average_message_length": 11.342190696897575,
+        "tone": "casual",
+        "emoji_usage": 1
+    }
+}
